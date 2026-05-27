@@ -2,9 +2,6 @@
 
 An end-to-end Excel data analytics project analyzing sales performance for **Ferns and Petals (FNP)** — a gifting company serving occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries.
 
-## Dashboard Preview
-![FNP Sales Analysis Dashboard](dashboard.png)
-
 ## Objective
 Analyze FNP's order dataset to uncover actionable insights on sales trends, customer behavior, and product performance — helping the business optimize its sales strategy and improve customer satisfaction.
 
