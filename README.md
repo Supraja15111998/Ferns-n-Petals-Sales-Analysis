@@ -1,14 +1,14 @@
-# 🌸 FNP Sales Analysis Dashboard
+# FNP Sales Analysis Dashboard
 
 An end-to-end Excel data analytics project analyzing sales performance for **Ferns and Petals (FNP)** — a gifting company serving occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries.
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 ![FNP Sales Analysis Dashboard](dashboard.png)
 
-## 🎯 Objective
+## Objective
 Analyze FNP's order dataset to uncover actionable insights on sales trends, customer behavior, and product performance — helping the business optimize its sales strategy and improve customer satisfaction.
 
-## 📁 Dataset
+## Dataset
 3 datasets used in this project:
 
 | File | Records | Description |
@@ -17,7 +17,7 @@ Analyze FNP's order dataset to uncover actionable insights on sales trends, cust
 | orders.csv | 1,000 | Order_ID, Customer_ID, Product_ID, Quantity, Order_Date, Delivery_Date, Location, Occasion |
 | products.csv | 70 | Product_ID, Product_Name, Category, Price (INR), Occasion, Description |
 
-## 🔑 Key Metrics
+## Key Metrics
 | Metric | Value |
 |---|---|
 | Total Orders | 1,000 |
@@ -25,14 +25,14 @@ Analyze FNP's order dataset to uncover actionable insights on sales trends, cust
 | Avg. Order–Delivery Time | 5.53 days |
 | Avg. Customer Spending | ₹3,521 |
 
-## 🛠️ Tools Used
+## Tools Used
 - **Power Query Editor** — Data cleaning and transformation
 - **Power Pivot** — Data modeling (linked via Customer_ID & Product_ID) and DAX measures
 - **Pivot Tables** — Data aggregation and summarization
 - **Pivot Charts** — Visual representation of insights
 - **Slicers & Timelines** — Interactive dashboard filtering by Occasion, Order Date, Delivery Date
 
-## 📂 Project Structure
+## Project Structure
 fnp-sales-analysis/
 ├── datasets/
 │   ├── customers.csv
@@ -43,7 +43,7 @@ fnp-sales-analysis/
 ├── dashboard.png
 └── README.md
 
-## 💡 Key Insights
+## Key Insights
 - Anniversary and Holi are the top revenue-generating occasions
 - Cakes dominate product category revenue (~₹10,00,000)
 - Revenue peaks in February (Valentine's Day) and August (Raksha Bandhan)
@@ -51,7 +51,7 @@ fnp-sales-analysis/
 - Average delivery time is a consistent 5.53 days across all order volumes
 - Top cities by orders — Kavali, Imphal, and Dhanbad lead demand
 
-## ❓ Business Questions Answered
+## Business Questions Answered
 1. Total Revenue
 2. Average Order & Delivery Time
 3. Monthly Sales Performance
